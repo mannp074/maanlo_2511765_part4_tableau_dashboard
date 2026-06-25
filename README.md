@@ -207,7 +207,3 @@ The repository includes:
 
 ---
 
-# Author
-
-Business Analytics Assignment – Part 4  
-Executive Dashboard & Data Storytelling
